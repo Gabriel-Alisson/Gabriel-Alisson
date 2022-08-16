@@ -2,7 +2,7 @@
 
 -  🎓  Atualmente estou cursando ADS pela PUC-MG
 -  💻  Também faço um Bootcamp de Full-Stack Dev Web pela Udemy
--  📌  Tenho conhecimento em C# | HTML | CSS | JavaScript | Bootstrap | Scrum
+-  📌  Tenho conhecimento em C# | HTML | CSS | JavaScript | Bootstrap |
 -  👨🏻‍💻  Estou em busca do meu primeiro estágio como Desenvolvedor Web
 
 <div align="center">
