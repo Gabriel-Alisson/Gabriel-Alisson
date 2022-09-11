@@ -2,8 +2,8 @@
 
 -  🎓  Atualmente estou cursando ADS pela PUC-MG
 -  💻  Também faço um Bootcamp de Full-Stack Dev Web pela Udemy
--  📌  Tenho conhecimento em C# | HTML | CSS | JavaScript | Bootstrap |
--  👨🏻‍💻  Estou em busca do meu primeiro estágio como Desenvolvedor Web
+-  📌  Tenho conhecimento em Python | JavaScript | Bootstrap | MySQL | Power BI | Excel
+-  👨🏻‍💻  Estou em busca do meu primeiro estágio como Analista de Dados e Desenvolvedor Web
 
 <div align="center">
   <a href="https://github.com/Gabriel-Alisson">
